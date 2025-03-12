@@ -1,3 +1,6 @@
+Access to this customized GPT:
+https://chatgpt.com/g/g-67d1531423448191b2778b8875e8adcb-bibtex-generator
+
 # Privacy Policy
 
 ## 1. Data Collection
